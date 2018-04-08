@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+> Preview :
+https://hhochart29.github.io/infinite-scroll/
+
 ## Build Setup
 
 ``` bash
